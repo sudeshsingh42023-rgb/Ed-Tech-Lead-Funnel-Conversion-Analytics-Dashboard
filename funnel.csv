@@ -1,0 +1,5 @@
+stage,count,pct_of_leads,stage_conversion_pct
+Leads,5000,100.0,
+Contacted,4421,88.4,88.4
+Demo attended,2189,43.8,49.5
+Enrolled,829,16.6,37.9

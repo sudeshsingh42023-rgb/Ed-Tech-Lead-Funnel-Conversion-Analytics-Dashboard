@@ -1,0 +1,11 @@
+{
+  "overall_conversion_pct": 16.6,
+  "model_auc": 0.667,
+  "top_quartile_conversion_pct": 27.0,
+  "bottom_quartile_conversion_pct": 6.4,
+  "top_quartile_lift_x": 1.63,
+  "top_quartile_captures_pct_of_enrolments": 40.8,
+  "best_channel_by_conversion": "Referral",
+  "best_channel_by_roi": "Referral",
+  "worst_channel_by_roi": "Instagram Ads"
+}

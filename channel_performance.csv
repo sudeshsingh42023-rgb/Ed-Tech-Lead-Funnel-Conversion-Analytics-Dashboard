@@ -1,0 +1,7 @@
+channel,leads,contacted_pct,demo_pct,enrolled,conversion_pct,spend_inr,revenue_inr,median_days_to_close,cost_per_enrolment_inr,roi_x
+Referral,477,87.4,54.5,133,27.9,28524.1,392217,6.0,214.5,13.8
+Webinar,747,87.0,54.2,198,26.5,127607.7,583902,6.0,644.5,4.6
+Campus Drive,1025,88.8,46.0,200,19.5,142092.9,589800,6.0,710.5,4.2
+WhatsApp Groups,999,88.5,40.7,118,11.8,39760.5,347982,6.0,337.0,8.8
+Instagram Ads,1259,88.6,37.0,145,11.5,120051.9,427605,6.0,827.9,3.6
+Cold Outreach,493,90.1,36.3,35,7.1,27095.4,103215,6.0,774.2,3.8
